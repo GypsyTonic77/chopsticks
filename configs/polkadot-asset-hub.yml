@@ -8,14 +8,14 @@ import-storage:
     Account:
       -
         -
-          - 0x811dFfA0b706017B137975Fb3C80E0C754D69EfD
+          -           - 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY
         - providers: 1
           data:
             free: 1000000000000000
   Assets:
     Account:
-      - [[1984, 0x811dFfA0b706017B137975Fb3C80E0C754D69EfD], { balance: 1000000000 }]
-      - [[1337, 0x811dFfA0b706017B137975Fb3C80E0C754D69EfD], { balance: 1000000000 }]
-      - [[21, 0x811dFfA0b706017B137975Fb3C80E0C754D69EfD], { balance: 1000000000 }]
+      - [[1984,           - 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY], { balance: 1000000000 }]
+      - [[1337,           - 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY], { balance: 1000000000 }]
+      - [[21,           - 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY], { balance: 1000000000 }]
     Asset: [[[21], { supply: 1000000000 }]]
 
